@@ -1,0 +1,42 @@
+{
+ "wid": "kancolle-2nd-season",
+ "anilistId": 21294,
+ "name": "KanColle 2nd Season",
+ "totalEpisodes": 8,
+ "repo": "adiytharpansa/o2sqa466qi4j",
+ "pin": "59fb6b54ef2ee0ae9da47a8b0737ba8d4fdd3ce2",
+ "subs": {
+  "1": [
+   "en",
+   "id"
+  ],
+  "2": [
+   "en",
+   "id"
+  ],
+  "3": [
+   "en",
+   "id"
+  ],
+  "4": [
+   "en",
+   "id"
+  ],
+  "5": [
+   "en",
+   "id"
+  ],
+  "6": [
+   "en",
+   "id"
+  ],
+  "7": [
+   "en",
+   "id"
+  ],
+  "8": [
+   "en",
+   "id"
+  ]
+ }
+}
